@@ -5,6 +5,7 @@ function App() {
       <p>React + TypeScript + Vite project</p>
       <p>1. Test push </p>
       <p>2. Test prod </p>
+       <p>3. Test GIT </p>
     </div>
   );
 }
